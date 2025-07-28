@@ -1,98 +1,63 @@
 <h1 align="center">Hi 👋, I'm Tejas Ranjeet</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Software Developer, Cybersecurity Explorer, and AI/ML Enthusiast from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Explorer+%F0%9F%94%91;AI+%2F+ML+Builder+%F0%9F%A4%96;Cloud+Practitioner+%E2%98%81%EF%B8%8F;Hackathon+Warrior+%F0%9F%92%AA" alt="Typing SVG" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right" alt="">
 
----
-
-## 🔭 I’m currently working on
-- **CyberCops - AI-Powered Cybersecurity Extension**  
+- 🔭 I’m currently working on **CyberCops – An AI-powered Chrome Extension for Cybersecurity Awareness**  
   🔗 [View Project](https://github.com/tejasranjeet03/cybercops)
 
-## 👯 I’m looking to collaborate on
-- **GenAI-based College Feedback Classifier**  
-  🔗 [Check It Out](https://github.com/tejasranjeet03/genai-feedback)
+- 👯 I’m looking to collaborate on **GenAI-based College Feedback Classifier**  
+  🔗 [Project Repo](https://github.com/tejasranjeet03/genai-feedback)
 
-## 🤝 I’m looking for help with
-- **Smart Healthcare IoT (HridyaVayu)**  
-  🔗 [Smart Inhaler Project](https://github.com/tejasranjeet03/hridyavayu)
+- 🤝 I’m looking for help with **HridyaVayu – Smart Inhaler predicting asthma attacks**  
+  🔗 [Smart Healthcare Project](https://github.com/tejasranjeet03/hridyavayu)
 
-## 🌱 I’m currently learning
-- OpenCV, NLP, Cloud Computing (AWS)
-- GenAI APIs, TensorFlow, and more!
+- 🌱 I’m currently learning **OpenCV, NLP, GenAI APIs, AWS Cloud, and Advanced ML**
 
-## 💬 Ask me about
-- React, Vue, GSAP animations
+- 💬 Ask me about **Python, C++, DSA, Cybersecurity, React, AI/ML, Flask, and Chrome Extensions**
 
-## 📫 How to reach me
-- 📧 tejasranjeet03@gmail.com
+- 📧 Reach me at **tejasranjeet03@gmail.com**
 
-## 👨‍💻 All of my projects are available at
-- 🌐 [Portfolio Coming Soon!](#)
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/tejasranjeet03)
 
-## 📝 I regularly write articles on
-- ✍️ [Blog Link Coming Soon!](#)
+- 📝 I regularly share tech content and updates — stay tuned for my upcoming [Blog](#)
 
-## 📄 Know about my experiences
-- 📄 [My Resume](#)
+- 📄 Know more about my journey in my [Resume](#)
 
-## ⚡ Fun fact
-- I think I’m funny, but my code often disagrees 😂
+- ⚡ Fun fact: I build bots faster than I do my college assignments 😄
 
 ---
 
-## 🛠️ Skills & Tech Stack
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Frontend Development  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧠 AI/ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🧰 Tools & DevOps  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasranjeet03&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasranjeet03&theme=github-dark&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasranjeet03&layout=compact&theme=github_dark&hide_border=true" width="48%">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tejasranjeet03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tejasranjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/tejasranjeet03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tejasranjeet03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
 
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasranjeet)  
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tejasranjeet03)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tejasranjeet03)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tejasranjeet03)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tejasranjeet03/profile)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasranjeet03&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasranjeet03&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasranjeet03&" alt="GitHub Streak" /></p>
