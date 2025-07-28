@@ -1,19 +1,25 @@
-# 👋 Hi, I'm Tejas Ranjeet
+<h1 align="left">👋 Hi, I'm Tejas Ranjeet</h1>
 
-![Tejas Ranjeet Banner](./4RNk.gif)
-
-Welcome to my GitHub profile! I'm a passionate tech enthusiast currently pursuing a dual degree — B.Tech in Computer Science Engineering from VIT Bhopal and a BS in Data Science & Applications from IIT Madras.
-
----
-
-## 🧠 About Me
-
-- 🎓 Dual Degree Student (VIT Bhopal + IIT Madras)
-- 🔐 Cybersecurity Advocate | 💡 AI/ML Enthusiast
-- 💬 I love building real-world projects that solve practical problems.
-- 🚀 Current Focus: GenAI projects, Chrome extensions, Smart Healthcare devices.
-- 💻 Languages: Python, C++, Java, JavaScript, HTML/CSS
-- 🔍 Exploring: OpenCV, Machine Learning, NLP, AWS Cloud
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        Welcome to my GitHub profile! I'm a passionate tech enthusiast currently pursuing a dual degree — a B.Tech in Computer Science Engineering from VIT Bhopal and a BS in Data Science & Applications from IIT Madras.
+      </p>
+      <ul>
+        <li>🎓 Dual Degree Student (VIT Bhopal + IIT Madras)</li>
+        <li>🛡 Cybersecurity Advocate | 🤖 AI/ML Enthusiast</li>
+        <li>🚀 I love building real-world projects that solve practical problems.</li>
+        <li>📌 Current Focus: GenAI projects, Chrome extensions, Smart Healthcare devices.</li>
+        <li>💻 Languages: Python, C++, Java, JavaScript, HTML/CSS</li>
+        <li>🧠 Exploring: OpenCV, Machine Learning, NLP, AWS Cloud</li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <img src="./1b2f1e4a-503e-4e8d-bcea-b55f01284371.png" width="250px">
+    </td>
+  </tr>
+</table>
 
 ---
 
