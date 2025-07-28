@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Tejas Ranjeet
 
+![Tejas Ranjeet Banner](./4RNk.gif)
+
 Welcome to my GitHub profile! I'm a passionate tech enthusiast currently pursuing a dual degree — B.Tech in Computer Science Engineering from VIT Bhopal and a BS in Data Science & Applications from IIT Madras.
 
 ---
